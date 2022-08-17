@@ -1,0 +1,19 @@
+.onetimewash {
+  display: flex;
+  flex-direction: row;
+  padding: 12px 16px;
+  color: #151515;
+}
+.subscriptionwash {
+  display: flex;
+  flex-direction: column;
+  padding: 12px 16px;
+  color: #151515;
+}
+.mapButton{
+  background-color: #2827CC;
+  color: #fff;
+  padding: 5px;
+  border-radius: 5px;
+  margin-top: 5px;
+}
