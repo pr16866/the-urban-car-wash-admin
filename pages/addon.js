@@ -1,4 +1,4 @@
-import Addon from "../Components/addon/index";
+import Addon from "../Components/Addon/index";
 import Sidebar from "../Components/Sidebar/index";
 import { mainContents } from "../styles/Home.module.css";
 import Navbar from "../Components/Navbar/index";
